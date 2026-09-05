@@ -207,8 +207,8 @@ function Home() {
         <div className="brand-row flex items-center gap-3">
           <div className="brand-mark" aria-hidden="true"><BookOpen size={20} strokeWidth={2.2} /></div>
           <div>
-            <div className="font-serif text-[1.16rem] font-bold leading-none tracking-[-.02em]">Campus Desk</div>
-            <div className="mt-1 text-[.67rem] font-semibold uppercase tracking-[.15em] opacity-65">Student records</div>
+            <div className="font-serif text-[1.16rem] font-bold leading-none tracking-[-.02em]">CampusDesk</div>
+            <div className="mt-1 text-[.67rem] font-semibold uppercase tracking-[.15em] opacity-65">Student management portal</div>
           </div>
         </div>
 
@@ -221,7 +221,7 @@ function Home() {
             onClick={() => setLocation('/')}
           >
             <UsersRound size={17} />
-            Student directory
+              Student portal
           </button>
         </nav>
 
@@ -236,7 +236,7 @@ function Home() {
           <header className="mb-8 flex flex-wrap items-end justify-between gap-5">
             <div>
               <p className="mb-2 text-[.71rem] font-bold uppercase tracking-[.18em] text-[hsl(var(--primary))]">Registrar workspace</p>
-              <h1 className="font-serif text-[clamp(2rem,4vw,3.15rem)] font-bold leading-[1.02] tracking-[-.035em]">Student directory</h1>
+              <h1 className="font-serif text-[clamp(2rem,4vw,3.15rem)] font-bold leading-[1.02] tracking-[-.035em]">CampusDesk – Student Management Portal</h1>
               <p className="mt-3 max-w-xl text-sm leading-6 text-[hsl(var(--muted-foreground))]">
                 Keep student details orderly, accessible, and easy to update.
               </p>

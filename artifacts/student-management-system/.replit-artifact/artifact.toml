@@ -1,6 +1,6 @@
 kind = "web"
 previewPath = "/"
-title = "Student Management System"
+title = "CampusDesk – Student Management Portal"
 description = "A beginner-friendly student records app for adding, searching, editing, and deleting students with data saved in the browser."
 version = "1.0.0"
 id = "artifacts/student-management-system"
