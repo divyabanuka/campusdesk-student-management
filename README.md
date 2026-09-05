@@ -23,6 +23,13 @@ A responsive web application for managing student records efficiently.
 - HTML
 - CSS
 - Vite
+- ## ▶️ How to Run
+
+1. Clone the repository.
+2. Open the project in VS Code or another code editor.
+3. Install the required dependencies.
+4. Start the development server.
+5. Open the local URL shown in the terminal.
 
 ## 📱 Project
 
